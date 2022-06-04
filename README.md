@@ -21,7 +21,7 @@ $ npx create-web3-frontend --ts my-app
 $ cd my-app
 $ yarn dev
 ```
-Visit http://localhost:3000
+Visit localhost port 3000
 
 ## Available options
 
